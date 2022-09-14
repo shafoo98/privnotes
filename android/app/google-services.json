@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170282732645",
+    "project_id": "priv-notes",
+    "storage_bucket": "priv-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170282732645:android:fc66ea5cebe2ac3b994a8c",
+        "android_client_info": {
+          "package_name": "com.bleh.privnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170282732645-7uct0jl9up16i562elugbj9mi7c37dbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXpXF-u3mVRrNTQfnjNpz0NxNC5f32UnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170282732645-7uct0jl9up16i562elugbj9mi7c37dbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
